@@ -18,3 +18,7 @@ We have exciting plans for future releases of the Flutter Weather App. Here are 
 - **Animations**: Animations that matches the description for the weather by removing current weather_icons.
 - **Dark Mode**: Introduce a dark mode for users who prefer a darker interface.
 - **Location-based Weather**: Automatically fetch weather data based on the user's current location.
+
+## Screenshot
+![weather_app_demo](https://github.com/Upendra48/Weather_app/assets/122508513/b7a8cf44-c78d-4410-b925-7b307c99c84d)
+
